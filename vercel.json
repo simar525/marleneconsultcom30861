@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://marlco.lindoai.com/$1"
+ }
+  ]
+}
